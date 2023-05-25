@@ -1,14 +1,14 @@
-# ![BitBar](https://github.com/matryer/bitbar/raw/master/Docs/bitbar-32.png) BitBar plugin for GitLab CI
+# ![XBar](https://github.com/matryer/xbar/blob/faf87a6ca09fd88c76ad41dce9277b1a74dbe58d/xbarapp.com/public/img/xbar-32.png) XBar plugin for GitLab CI
 
 Shows currently running pipelines from your GitLab in your bar.
 
-![BitBar Example showing BitCoins plugin](./gitlab_ci.png)
+![XBar Example](./gitlab_ci.png)
 
-**Interested in more advanced GitLab bar integration? Let me know (martin@kluska.cz). This implementation is just quick solution.**
+**Forked from https://github.com/pionl/bitbar-gitlab-ci **
 
 ## Install
 
-Copy the plugin to your BitBar plugins directory. Edit the file and add your gitlab instances to `INSTANCES`.
+Copy the plugin to your xBar plugins directory. Edit the file and add your gitlab instances to `INSTANCES`.
 
 ```
 INSTANCES = [
